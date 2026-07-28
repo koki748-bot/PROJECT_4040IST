@@ -52,9 +52,13 @@ Product Performance Page:
 # Key Business Recommendations
 
 1.United Kingdom generates the dominant majority of total sales.Core revenue source vulnerable to market shift if neglected.Increase UK marketing investment and protect inventory buffer. 
+
 2.Top-performing items face high volume demand.High stockout risk resulting in missed revenue opportunities.Prioritize restocking triggers before stock levels hit critical thresholds.
+
 3.Notable revenue fluctuations across different periods. Stock volatility and inefficient capital allocation.Implement predictive demand forecasting using historical time series. 
+
 4.Low-selling stock keeping units (SKUs) present in portfolio.Tied-up working capital and reduced warehouse efficiency.Discount, bundle, or discontinue under-performing SKUs. 
+
 5.Average Order Value stands at £469.98. Opportunity to scale revenue per transaction.Introduce cross-selling strategies and complementary product bundling. 
 
 Estimated Impact: Implementation of the prescriptive framework holds the potential to generate approximately £3.2M in additional revenue

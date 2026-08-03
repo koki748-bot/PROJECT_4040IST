@@ -38,6 +38,7 @@ Clustered Bar Chart: Total Sales Measure by Country
 
 # Page 2: Product & Inventory Deep-Dive
 KPI Cards (2): Total Items Sold , Average Basket Size .
+
 Visuals (3):
 Clustered Column Chart: Sum of Quantity by Description (Top-performing items)
 Scatter Plot: Sum of Price vs. Sum of Quantity (Price elasticity matrix)
@@ -45,6 +46,7 @@ Matrix View: Granular lookup of Sum of Price, Sum of Quantity, and Sum of Total 
 
 # Interactive Features
 Global Slicers: Dynamic updates across all visuals when filtering by country or timeline.
+
 Cross-Filtering: Selecting a country bar highlights its specific sales trajectory over time.
 
 # Dashboard Screenshots

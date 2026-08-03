@@ -9,13 +9,18 @@ The online retail enterprise lacks an integrated, data-driven optimization strat
 
 # Dataset Information
 1.Source: [UCI Machine Learning Repository — *Online Retail II* dataset.]
+
 2.size: Minimum 5,000+ records
+
 3.Description: Contains transaction records, including sales volume, unit prices, product 4.descriptions, invoice dates, and geographical locations.
 
 # Data Cleaning & Transformation Process
 1.Workbook Merging: Combined worksheets from Year 2009–2010 and Year 2010–2011 into a single consolidated dataset.
+
 2.Missing Value Handling: Dropped records with null Customer ID or Description fields.
+
 3.Transaction Filtering: Filtered out canceled orders (invoices beginning with C) and removed duplicate records.
+
 4.Anomalies Removal: Stripped transactions containing non-positive quantities or invalid unit prices.
 
 
@@ -24,7 +29,9 @@ The online retail enterprise lacks an integrated, data-driven optimization strat
 
 # Page 1: Executive Overview & Geographic Sales
 KPI Cards (3): Total Sales Measure, Average Order Value, Active Customer Count.
+
 Slicers (2): Country (Checkbox dropdown) and InvoiceDate (Timeline slider).
+
 Charts (2): 
 Chart: Total Sales Measure by InvoiceDate
 Clustered Bar Chart: Total Sales Measure by Country
